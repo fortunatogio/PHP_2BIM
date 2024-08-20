@@ -36,4 +36,5 @@
         }
     }
 
-$obj = new Livro("O livro", "Ana", "2024");
+$obj = new Livro("O livro", "Ana", 1850);
+var_dump($obj);
